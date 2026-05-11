@@ -9,7 +9,7 @@ namespace TestProject1
         public void Test1()
         {
             var clac = new Class1();
-            Assert.Equal(5, clac.Add(1, 3));
+            Assert.Equal(4, clac.Add(1, 3));
         }
     }
 }
