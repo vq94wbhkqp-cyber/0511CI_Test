@@ -13,7 +13,7 @@ jobs:
 
     env:
       # 1. 這裡改成你的 .sln 檔名
-      Sln: 0511CI_Test.sln
+      Sln: CILib.sln 
       # 2. 設定編譯模式為 Release
       Configuration: Release
 
